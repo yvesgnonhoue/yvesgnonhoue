@@ -58,8 +58,19 @@ Aujourd’hui, je mets ces compétences au service de la **data science** pour t
 - Moteur de jeu complexe en Python (POO) + variables aléatoires
 - IA décisionnelle basée sur la simulation de probabilités (Monte-Carlo)
 
-👉 *D’autres projets sont disponibles dans mes dépôts GitHub*
+---
 
+👉 ## 📂 Réalisation
+
+### 🔹 Enron Discovery – Plateforme d'investigation e-Discovery
+> **490 847 emails analysés** – Django, PostgreSQL, Docker, NLP
+
+[![Voir le projet](https://img.shields.io/badge/GitHub-Voir_le_projet-blue)](https://github.com/yvesgnonhoue/enron-discovery)
+
+---
+
+
+🔗 **Retrouvez tous mes projets sur [GitHub](https://github.com/yvesgnonhoue)**
 ---
 
 ## 🧰 Compétences
