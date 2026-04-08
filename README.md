@@ -60,7 +60,7 @@ Aujourd’hui, je mets ces compétences au service de la **data science** pour t
 
 ---
 
-👉 ## 📂 Réalisation
+## 👉  Réalisation
 
 ### 🔹 Enron Discovery – Plateforme d'investigation e-Discovery
 > **490 847 emails analysés** – Django, PostgreSQL, Docker, NLP
