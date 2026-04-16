@@ -45,6 +45,12 @@ Aujourd’hui, je mets ces compétences au service de la **data science** pour t
 
 ## 📂 Projets académiques
 
+### 🔹 Automatisation du Parsing et Analyse de Logs (Avr. 2026)
+- Nettoyage et structuration d'un corpus hétérogène de logs système (Python, Pandas).
+- Feature Engineering : Création de KPIs métier (Taux de succès par profil, saisonnalité hebdomadaire).
+- Visualisations statistiques avancées (Seaborn, Matplotlib) pour l'aide à la décision technique.
+- Documentation technique complète avec gestion des ressources visuelles via Git.
+- 
 ### 🔹 Analyse du corpus Enron (Fév. – Mar. 2026)
 - Ingestion, nettoyage et structuration de **+500 000 emails** (Python, PostgreSQL, Docker)
 - NLP et initiation aux **Agents IA** pour flux documentaires complexes
