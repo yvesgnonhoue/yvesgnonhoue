@@ -1,138 +1,156 @@
 # 👋 Yves GNONHOUE
 
-🧮 **Mathématicien de formation** → 🤖 **Data Scientist en devenir**
+## 📊 Mathématiques appliquées • Data Science • Machine Learning
 
-🎓 Master 1 Data Science – Université d’Angers  
-📊 Analyse statistique | Machine Learning | Big Data | IA  
-🚀 À la recherche d’un **stage en data science** à partir de mi-avril 2026 (France, mobile)
+🎓 Master Data Science – Université d’Angers  
+💻 Python | SQL | Machine Learning | NLP | Analyse statistique  
+🚀 À la recherche d’une alternance en Data Science / Machine Learning à partir de septembre 2026
 
----
-
-## 🧠 À propos de moi
-
-**Mathématicien avant tout**, j’ai construit une rigueur analytique et une capacité à modéliser des problèmes complexes.  
-Aujourd’hui, je mets ces compétences au service de la **data science** pour transformer des données brutes en décisions stratégiques.
-
-> 5 ans d’expérience en enseignement m’ont aussi appris à vulgariser des concepts techniques et à travailler avec des publics variés.
+📍 Angers, France (mobile France)
 
 ---
 
-## 🎓 Formation
+# 🧠 À propos de moi
 
-| Diplôme | Université | Année |
-|--------|-----------|-------|
-| **Master 1 Mathématiques et Applications, parcours Data Science** | Université d’Angers | 2025 – 2027 |
-| Licence Mathématiques générales | Université d’Angers | 2024 – 2025 |
-| Licence Mathématiques générales | Université d’Abomey-Calavi (Bénin) | 2018 – 2019 |
+Étudiant en Master Mathématiques et Applications parcours Data Science à l’Université d’Angers, je possède une solide formation en statistique, modélisation stochastique et machine learning.
 
-📘 *Master 2 Data Science prévu en 2026 – 2027 (alternance possible)*
+Mon parcours en mathématiques m’a permis de développer une forte rigueur analytique et une capacité à modéliser des problématiques complexes. Fort de 5 années d’expérience en enseignement des mathématiques, j’ai également développé des compétences en communication, pédagogie et vulgarisation scientifique.
 
----
-
-## 💼 Expériences professionnelles
-
-### Enseignant de mathématiques (Bénin, France) – *Sept. 2020 – Actuel*
-- 📊 Analyse & reporting : suivi de performances, définition de KPI, analyse de résultats  
-- 🗣️ Pédagogie & vulgarisation : adaptation à des publics non techniques  
-- ⚙️ Optimisation : création de supports interactifs, amélioration continue
-
-### Analyste statistique (Stat’lab, Bénin) – *Stage L3, Mai – Juil. 2019*
-- 🔍 Analyse de données alimentaires sous Excel  
-- 🧹 Data preparation : nettoyage, structuration, fiabilisation  
-- 📋 Élaboration de protocoles d’enquête
+Je développe aujourd’hui des projets en Python, SQL et Data Engineering autour de :
+- l’analyse statistique,
+- le NLP,
+- la visualisation de données,
+- les systèmes d’analyse documentaire.
 
 ---
 
-## 📂 Projets académiques
+# ⚙️ Technologies
 
-### 🔹 Analyse et Exploration de Logs Système (Avr. 2026)
-- Nettoyage et structuration d'un corpus hétérogène de logs système (Python, Pandas).
-- Feature Engineering : Création de KPIs métier (Taux de succès par profil, saisonnalité hebdomadaire).
-- Visualisations statistiques avancées (Seaborn, Matplotlib) pour l'aide à la décision technique.
-- Documentation technique complète avec gestion des ressources visuelles via Git.
+## 💻 Langages & Data
+- Python
+- SQL
+- R
+- SAS
 
-### 🔹 Analyse du corpus Enron (Fév. – Mar. 2026)
-- Ingestion, nettoyage et structuration de **+500 000 emails** (Python, PostgreSQL, Docker)
-- NLP et initiation aux **Agents IA** pour flux documentaires complexes
-- Dashboard Django (filtres avancés, recherche autocomplétée)
+## 🧠 Data Science & IA
+- Machine Learning
+- NLP
+- Analyse statistique
+- Data Mining
+- Modélisation stochastique
 
-### 🔹 Modélisation statistique & BI (Jan. – Fév. 2026)
-- Schéma en étoile (Star Schema), KPIs, tableaux de bord décisionnels
-- Segmentation, réduction de dimension (PCR, PLS), évaluation (R, Python, SAS)
+## 🗄️ Data Engineering & Outils
+- PostgreSQL
+- Docker
+- Git
+- Django
+- Streamlit
 
-### 🔹 Simulation Monte-Carlo & IA (Oct. – Déc. 2025)
-- Moteur de jeu complexe en Python (POO) + variables aléatoires
-- IA décisionnelle basée sur la simulation de probabilités (Monte-Carlo)
-
----
-
-## 👉  Réalisation
-
-### 🔹 Enron Discovery – Plateforme d'investigation e-Discovery
-> **490 847 emails analysés** – Django, PostgreSQL, Docker, NLP
-
-[![Voir le projet](https://img.shields.io/badge/GitHub-Voir_le_projet-blue)](https://github.com/yvesgnonhoue/enron-discovery)
+## 📊 Visualisation
+- Power BI
+- Matplotlib
+- Seaborn
 
 ---
 
+# 🎓 Formation
 
-🔗 **Retrouvez tous mes projets sur [GitHub](https://github.com/yvesgnonhoue)**
----
+| Diplôme | Établissement | Période |
+|---|---|---|
+| **Master Mathématiques et Applications – Data Science** | Université d’Angers | 2025 – 2027 |
+| Licence Mathématiques Générales | Université d’Angers | 2024 – 2025 |
+| Licence Mathématiques Générales | Université d’Abomey-Calavi | 2018 – 2019 |
 
-## 🧰 Compétences
-
-### 💻 Programmation & Data
-- **Python** (Pandas, NumPy, Scikit-learn)  
-- **SQL**, PostgreSQL, Docker  
-- **R**, SAS, Git, Django  
-- Machine Learning, NLP, LLM / Agents IA  
-- Big Data (Hadoop, Spark – notions)
-
-### 📊 Visualisation & BI
-- Power BI, Looker Studio (notions)  
-- Matplotlib, Seaborn  
-- Excel avancé, AppScript (notions)
-
-### 🧮 Héritage mathématique
-- Analyse numérique matricielle  
-- Optimisation non linéaire  
-- Modélisation stochastique  
-- Statistique en grande dimension
-
-### 🌍 Langues
-- **Français** : langue maternelle  
-- **Anglais** : B1 (technique)
-
-### ❤️ Qualités
-- Rigoureux, curieux, esprit d’équipe  
-- Sens du détail & capacité d’analyse  
-- Pédagogie & vulgarisation  
-- Esprit de synthèse
+### 📘 Enseignements clés
+- Machine Learning & Data Mining
+- Modèles de Régression
+- Statistique & Classification
+- Modélisation Stochastique
+- Séries Chronologiques
+- Big Data & Ingénierie des Données
+- Bases de Données Relationnelles (SQL)
+- Optimisation Non-Linéaire
 
 ---
 
-## 🎯 Objectifs professionnels
+# 💼 Expériences Professionnelles
 
-- Appliquer la **rigueur mathématique** à des problèmes concrets de data science  
-- Obtenir un **stage en data science** à partir d’avril 2026  
-- À terme : alternance ou CDI en **IA, Big Data ou analyse décisionnelle**
+## 🔹 Enseignant de mathématiques — Bénin / France
+*Sept. 2020 – Aujourd’hui*
 
----
-
-## 📫 Contact
-
-📧 **Email** : [yvanognonhoue@gmail.com](mailto:yvanognonhoue@gmail.com)  
-📱 **Téléphone** : +33 7 66 37 87 38  
-📍 **Localisation** : Angers, France (mobile sur toute la France)  
-🔗 **LinkedIn** : [yves-gnonhoue-2699b3384](https://www.linkedin.com/in/yves-gnonhoue-2699b3384)
+- Communication de concepts mathématiques complexes à des publics variés
+- Accompagnement individualisé et suivi analytique des performances
+- Développement de supports pédagogiques structurés et interactifs
 
 ---
 
-## ⚡ À propos
+## 🔹 Analyste Statistique — Stat’Lab (Bénin)
+*Mai 2019 – Juil. 2019*
 
-Des maths à la data, il n’y a qu’un pas… que j’ai franchi avec passion.  
-J’aime **transformer des données complexes en informations utiles** pour la prise de décision 📊
+- Analyse de données alimentaires sous Excel
+- Nettoyage et structuration de bases de données
+- Participation à l’élaboration de protocoles d’enquête
 
 ---
 
-*📌 Ce README est mon profil GitHub. Mes projets et mon évolution sont visibles dans mes dépôts.*
+# 📂 Projets Data Science
+
+## 🔹 Enron Discovery — Plateforme d’investigation e-Discovery
+**Python • PostgreSQL • Docker • Django • NLP**
+
+- Développement d’un pipeline d’ingestion et de nettoyage de plus de 500 000 emails
+- Structuration et indexation des données sous PostgreSQL
+- Développement d’un dashboard Django avec recherche avancée
+- Exploration des workflows documentaires et du NLP
+
+🔗 Projet :
+[Enron Discovery](https://github.com/yvesgnonhoue/enron-discovery)
+
+---
+
+## 🔹 Analyse et Exploration de Logs Système
+**Python • Pandas • Matplotlib • Seaborn**
+
+- Nettoyage et structuration d’un corpus hétérogène de logs système
+- Création de KPIs métier et analyse de saisonnalité
+- Réalisation de visualisations statistiques pour l’aide à la décision
+
+🔗 Projet :
+[Logs Analysis Project](https://github.com/yvesgnonhoue/Data_Cleaning_Parsing_Project)
+
+---
+
+## 🔹 Modélisation Statistique & BI
+**Python • R • SAS • Analyse statistique**
+
+- Nettoyage et consolidation de bases de données hétérogènes
+- Réduction de dimension via les méthodes PCR et PLS
+- Évaluation comparative des performances sous R, Python et SAS
+
+---
+
+# 🎯 Objectifs Professionnels
+
+- Appliquer la rigueur mathématique à des problématiques concrètes de Data Science
+- Développer des solutions d’analyse et d’aide à la décision basées sur les données
+- Évoluer vers des projets mêlant IA, Machine Learning et ingénierie des données
+
+---
+
+# 📫 Contact
+
+📧 Email : yvanognonhoue@gmail.com  
+📱 Téléphone : +33 7 66 37 87 38  
+📍 Localisation : Angers, France  
+🔗 LinkedIn :  
+https://www.linkedin.com/in/yves-gnonhoue-2699b3384
+
+---
+
+# ⚡ Philosophie
+
+Des mathématiques à la Data Science, je construis des solutions analytiques combinant rigueur, modélisation et exploitation intelligente des données.
+
+---
+
+📌 Ce dépôt GitHub regroupe mes projets, expérimentations et travaux en Data Science.
