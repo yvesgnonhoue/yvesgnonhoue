@@ -120,7 +120,7 @@ Je développe aujourd’hui des projets en Python, SQL et Data Engineering autou
 
 ---
 
-## 🔹 Modélisation prédictive des prix de vente immobilières en zone urbaine
+## 🔹Estimation prédictive des prix de vente de biens immobiliers en milieu urbain
 **Python • R • SAS • Analyse statistique**
 
 - Prétraitement de données immobilières et gestion de la colinéarité
