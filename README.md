@@ -120,12 +120,12 @@ Je développe aujourd’hui des projets en Python, SQL et Data Engineering autou
 
 ---
 
-## 🔹 Modélisation Statistique & BI
+## 🔹 Modélisation prédictive des prix de vente immobilières en zone urbaine
 **Python • R • SAS • Analyse statistique**
 
-- Nettoyage et consolidation de bases de données hétérogènes
-- Réduction de dimension via les méthodes PCR et PLS
-- Évaluation comparative des performances sous R, Python et SAS
+- Prétraitement de données immobilières et gestion de la colinéarité
+- Réduction de dimension (PCR, PLS) et feature engineering
+- Modélisation et évaluation sous R, Python et SAS
 
 ---
 
